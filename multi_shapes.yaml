@@ -1,0 +1,5 @@
+train: multi_shapes/images
+val: multi_shapes/images
+
+nc: 4
+names: ['circle', 'square', 'triangle', 'star']
